@@ -6,7 +6,7 @@ h1{
 }
 section{
     height:500px;
-    margin-bottom:350px;
+    
 }
 .name-highlight{
     color: orange;
@@ -37,12 +37,15 @@ h2 span{
 }
 .name-latest{
     color: orange;
+    
 }
 .latest-area{
     text-align: center;
+    margin-bottom:100px;
 }
 .latest-area h2{
     font-size: 35px;
+    margin-top: 50px;
 }
 .image-width{
     width: 25%;
@@ -52,6 +55,7 @@ h2 span{
     border-radius:10px;
     padding: 20px;
     box-shadow:10px 10px 40px grey;
+    height: 480px;
  }
  .image-width img{
      width: 100%;
@@ -97,7 +101,8 @@ h2 span{
 }
 .lastpart{
     text-align: center;
-    margin-bottom: 20px;
+    height: 300px;
+
 }
 .lastpart h5{
     font-size: 28px;
@@ -110,4 +115,7 @@ h2 span{
 .image-last img{
     width: 3%;
     margin-left: 20px;
+}
+.about-section{
+    height: 800px;
 }
